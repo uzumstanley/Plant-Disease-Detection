@@ -6,3 +6,5 @@ seaborn==0.13.0
 pandas==2.1.0
 streamlit
 librosa==0.10.1
+gdown==4.7.1
+Pillow==9.5.0
